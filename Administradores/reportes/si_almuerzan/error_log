@@ -1,0 +1,1 @@
+[06-Aug-2019 16:39:37 UTC] PHP Warning:  mysqli_connect(): (HY000/1045): Access denied for user 'root'@'localhost' (using password: YES) in /home/promosena/public_html/restaurante/Administradores/reportes/includes/conexion.php on line 5

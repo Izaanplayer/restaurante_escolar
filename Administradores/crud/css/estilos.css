@@ -1,0 +1,21 @@
+* {
+	margin: 0px;
+	padding: 0px;
+}
+
+div.main {
+	margin: 1rem;
+	padding: 1rem;
+	/* IMPORTANTE */
+	text-align: center;
+}
+
+div.col-xs-12 {
+	display: flex;
+  	justify-content: center;
+}
+
+div.row {
+	display: flex;
+  	justify-content: center;
+}
